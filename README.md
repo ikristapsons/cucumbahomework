@@ -2,14 +2,15 @@
 
 ## Test running
 
-yarn test - to run all tests at once
+- Run `yarn install` to install all dependencies.
+- yarn test - to run all tests at once
 
-- Additionally tests can be run separately
-yarn loginPage
-yarn addRemoveElements
-yarn checkBoxes
-yarn hovers
-yarn keyPresses
+## Additionally tests can be run separately
+- yarn loginPage
+- yarn addRemoveElements
+- yarn checkBoxes
+- yarn hovers
+- yarn keyPresses
 
 ## Create a set of scenarios for the following training examples:
 1. https://the-internet.herokuapp.com/add_remove_elements/
